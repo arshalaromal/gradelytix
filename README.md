@@ -53,12 +53,12 @@ The project focuses on keeping the workflow simple and lightweight while still p
 
 ## Screenshots
 
-*Add screenshots here if available.*
 
-```md
-![Home Screen](screenshots/home.png)
-![Performance Graph](screenshots/graph.png)
-```
+![Home Screen](screenshots/1.jpg)
+![Performance Graph](screenshots/2.png)
+![Performance Graph](screenshots/3.png)
+![Performance Graph](screenshots/4.png)
+
 
 ---
 
