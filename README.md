@@ -71,4 +71,4 @@ The project focuses on keeping the workflow simple and lightweight while still p
 
 ## Author
 
-Developed by **Arshal**.
+Developed by **Arshal Aromal**.
