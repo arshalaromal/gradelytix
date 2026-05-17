@@ -52,13 +52,12 @@ The project focuses on keeping the workflow simple and lightweight while still p
 ---
 
 ## Screenshots
-
-
-![Home Screen](screenshots/1.jpg)
-![Performance Graph](screenshots/2.png)
-![Performance Graph](screenshots/3.png)
-![Performance Graph](screenshots/4.png)
-
+<p align="center">
+  <img src="screenshots/1.jpg" height="400">
+  <img src="screenshots/2.jpg" height="400">
+  <img src="screenshots/3.jpg" height="400">
+  <img src="screenshots/4.jpg" height="400">
+</p>
 
 ---
 
